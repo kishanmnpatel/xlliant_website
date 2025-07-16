@@ -1,0 +1,6 @@
+[11-Aug-2023 22:11:51 UTC] PHP Warning:  Undefined array key "mobile" in /home1/xlliantagri/public_html/contact.php on line 6
+[11-Aug-2023 22:11:51 UTC] PHP Warning:  Undefined array key "message" in /home1/xlliantagri/public_html/contact.php on line 7
+[11-Aug-2023 22:11:51 UTC] PHP Warning:  Undefined array key "img" in /home1/xlliantagri/public_html/contact.php on line 9
+[11-Aug-2023 22:11:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/xlliantagri/public_html/contact.php on line 9
+[11-Aug-2023 22:11:51 UTC] PHP Warning:  Undefined array key "img" in /home1/xlliantagri/public_html/contact.php on line 10
+[11-Aug-2023 22:11:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/xlliantagri/public_html/contact.php on line 10
